@@ -8,6 +8,7 @@ Types of image segemantion
 - semantic segmentation: focuses on sematic classes (assigns pixels that represent a class)
 - instance segmentation: focuses on delineating instances of objects of a similar class
 - panoptic segemenation: combination of semantic and instance segmentation
+
 Use Cases:
 - Medical Imaging
 - Autonomous vehicles
