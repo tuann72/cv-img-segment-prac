@@ -1,4 +1,4 @@
-# cv-inst-segmentation
+# cv-img-segmentation-prac
 
 # Journaling
 ## Aug 1, 2024:
