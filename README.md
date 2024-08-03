@@ -17,6 +17,12 @@ Use Cases:
 - Manufacturing
 - Agriculture
 
-# Resources Used
 https://www.youtube.com/watch?v=ag3DLKsl2vk
 https://www.ibm.com/topics/image-segmentation
+
+## Aug 2, 2024:
+Installing YOLOv8 from ultralytics. https://docs.ultralytics.com/
+
+# Additional Resources
+
+https://paperswithcode.com/method/u-net
